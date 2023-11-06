@@ -7522,8 +7522,7 @@ header {
   margin: 0 auto; }
   @media (max-width: 767.98px) {
     header {
-      padding: 2em 0;
-      position: absolute; } }
+      padding: 2em 0; } }
   header .colorlib-navbar-brand {
     float: right;
     position: relative; }
