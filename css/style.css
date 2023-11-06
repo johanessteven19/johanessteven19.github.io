@@ -704,6 +704,10 @@ pre {
 .offset-11 {
   margin-left: 91.66667%; }
 
+.clickable-link {
+  position: relative; 
+  z-index: 1; }
+
 @media (min-width: 576px) {
   .col-sm {
     -ms-flex-preferred-size: 0;
