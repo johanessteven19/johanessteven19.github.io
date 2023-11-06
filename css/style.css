@@ -7525,7 +7525,7 @@ header {
       padding: 2em 0;
       position: absolute; } }
   header .colorlib-navbar-brand {
-    float: left; }
+    float: right; }
     header .colorlib-navbar-brand .colorlib-logo {
       font-size: 20px;
       text-transform: uppercase;
@@ -7542,7 +7542,7 @@ header {
         height: 50px;
         position: absolute;
         top: 0;
-        left: 0;
+        right: 0;
         border-radius: 50%; }
       header .colorlib-navbar-brand .colorlib-logo:hover {
         text-decoration: none !important; }
