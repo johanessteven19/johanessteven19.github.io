@@ -7535,7 +7535,9 @@ header {
       padding: 7px;
       display: block;
       text-align: center;
-      position: relative;
+      position: absolute;
+      top: 0;
+      right: 0;
       padding-left: 62px; }
       header .colorlib-navbar-brand .colorlib-logo .logo-img {
         width: 50px;
