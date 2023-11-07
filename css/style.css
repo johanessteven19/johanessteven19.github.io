@@ -7977,7 +7977,7 @@ header {
     width: 10px;
     height: 10px;
     content: '';
-    background: #2f89fc;
+    background: #89fc2f;
     border-radius: 50%; }
   .progress-bar span {
     position: absolute;
@@ -7985,9 +7985,9 @@ header {
     right: 0;
     color: #6c757d; }
   .progress-bar.color-1 {
-    background: #2f89fc; }
+    background: #89fc2f; }
     .progress-bar.color-1:after {
-      background: #2f89fc; }
+      background: #89fc2f; }
 
 .services {
   position: relative; }
